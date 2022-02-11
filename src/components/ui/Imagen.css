@@ -1,6 +1,7 @@
 .logo-txt {
   display: flex;
-  margin-left: 3rem;
+  align-items: center;
+  margin-left: 5rem;
 }
 
 .logo-txt img {
